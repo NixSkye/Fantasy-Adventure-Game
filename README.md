@@ -26,9 +26,11 @@ Gain levels, unlock new abilities, and increase your character’s stats (such a
 The progression system adds a sense of accomplishment and rewards exploration and strategic thinking.
 # 5. Puzzle Solving
 Players will encounter challenges that require logical thinking and decision-making.
+
 Solve riddles, unlock doors with keys, and manipulate objects to progress through the story.
 # 6. Dynamic Storytelling
 The game reacts to your decisions, offering multiple endings based on how you choose to play.
+
 Discover secrets, hidden paths, and lore that adds depth to the world.
 
 # What's Next?
@@ -36,8 +38,11 @@ Discover secrets, hidden paths, and lore that adds depth to the world.
 I’m planning to transition this text-based game into a 3D adventure game using Blender (UBGE) as the game engine. Key features for the 3D version include:
 
 -3D models and environments to immerse players in a rich, detailed fantasy world.
+
 -Character movement and physics to navigate the world in 3D space.
+
 -Advanced combat mechanics with real-time action and more complex interactions.
+
 -Sound design and music to enhance the atmosphere and player experience.
 
 # 💡 Looking for Ideas & Collaboration!
@@ -56,13 +61,16 @@ Clone the repository: Clone this repository to your local machine using:
     git clone https://github.com/your-username/Fantasy-Adventure-Game.git
 
 Install Python (if not already installed): The game is developed in Python 3. Make sure Python is installed on your system. You can download it here.
+
 Run the game: Navigate to the game folder and run the game script:
 
     fantasyadventure.py
 
 Follow the prompts:
+
 The game will prompt you to make choices, battle enemies, manage your inventory, and explore different story paths. Make decisions wisely to progress!
 
 # Technologies Used
 Python 3: Core programming language used to develop the game logic, combat system, and user interface.
+
 Text-based interface: Simple interaction with users via the terminal or command prompt.
