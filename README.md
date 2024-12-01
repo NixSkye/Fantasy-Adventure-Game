@@ -46,8 +46,8 @@ Clone the repository: Clone this repository to your local machine using:
 
     git clone https://github.com/your-username/Fantasy-Adventure-Game.git
 
--Install Python (if not already installed): The game is developed in Python 3. Make sure Python is installed on your system. You can download it here.
--Run the game: Navigate to the game folder and run the game script:
+Install Python (if not already installed): The game is developed in Python 3. Make sure Python is installed on your system. You can download it here.
+Run the game: Navigate to the game folder and run the game script:
 
     fantasyadventure.py
 
